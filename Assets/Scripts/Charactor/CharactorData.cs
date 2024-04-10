@@ -3,6 +3,10 @@
 /// </summary>
 public class CharactorData {
     /// <summary>
+    /// Identification of charactor
+    /// </summary>
+    public string Id { get; set; }
+    /// <summary>
     /// Current level of charactor
     /// </summary>
     public int Level { get; set; }

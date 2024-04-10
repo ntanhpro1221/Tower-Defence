@@ -4,15 +4,7 @@ using UnityEngine;
 /// <summary>
 /// Base of charactor
 /// </summary>
-public class Charactor {
-    /// <summary>
-    /// Multable data of this charactor
-    /// </summary>
-    public CharactorData Data { get; set; }
-    /// <summary>
-    /// Read-only data of this charctor
-    /// </summary>
-    public CharactorInfo Info { get; set; }
+public class CharactorBase {
     /// <summary>
     /// Stats bonus of charactor (from rune, upgrade, effect...)
     /// </summary>
@@ -30,5 +22,4 @@ public class Charactor {
     /// Skill action list of charactor
     /// </summary>
     public List<Action<List<float>>> Skill { get; set; }
-
 }

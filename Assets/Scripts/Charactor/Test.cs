@@ -8,6 +8,7 @@ namespace Test {
         public T atk;
         public T spd;
         public T xpRequired;
+
     }
     public class CharactorInfo {
         public string id;
