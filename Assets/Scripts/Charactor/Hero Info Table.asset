@@ -9,14 +9,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
+  m_Script: {fileID: 11500000, guid: b3d81a0d5b901684380d125d8a4b2d84, type: 3}
   m_Name: Hero Info Table
   m_EditorClassIdentifier: Assembly-CSharp::CharactorInfoTable
   <Table>k__BackingField:
-  - <Name>k__BackingField: Jave
+  - <Name>k__BackingField: Jave (Test)
     <Id>k__BackingField: 000
-    <Description>k__BackingField: "T\u1EEB b\xE9 \u0111\xE3 bi\u1EBFt th\u1EDF"
-    <Cost>k__BackingField: 100
+    <Description>k__BackingField: "T\u1EEB nh\u1ECF \u0111\xE3 bi\u1EBFt th\u1EDF"
+    <Cost>k__BackingField: 200
     <StatsTrans>k__BackingField:
       <Hp>k__BackingField: {x: 1, y: 1}
       <HpRegen>k__BackingField: {x: 1, y: 1}
@@ -38,16 +38,20 @@ MonoBehaviour:
     - <CDTime>k__BackingField: {x: 10, y: -1}
       <SkillParams>k__BackingField:
       - {x: 1, y: 1}
-      <Description>k__BackingField: "T\u0103ng atk th\xEAm params_0 trong 3 gi\xE2y"
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
     - <CDTime>k__BackingField: {x: 10, y: -1}
       <SkillParams>k__BackingField:
       - {x: 1, y: 1}
-      <Description>k__BackingField: "T\u0103ng atk th\xEAm params_0 trong 3 gi\xE2y"
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
     - <CDTime>k__BackingField: {x: 10, y: -1}
       <SkillParams>k__BackingField:
       - {x: 1, y: 1}
-      <Description>k__BackingField: "T\u0103ng atk th\xEAm params_0 trong 3 gi\xE2y"
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
     - <CDTime>k__BackingField: {x: 10, y: -1}
       <SkillParams>k__BackingField:
       - {x: 1, y: 1}
-      <Description>k__BackingField: "T\u0103ng atk th\xEAm params_0 trong 3 gi\xE2y"
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"

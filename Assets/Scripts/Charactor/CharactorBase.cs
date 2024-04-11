@@ -4,7 +4,7 @@ using UnityEngine;
 /// <summary>
 /// Base of charactor
 /// </summary>
-public class CharactorBase {
+public abstract class CharactorBase : MonoBehaviour {
     /// <summary>
     /// Stats bonus of charactor (from rune, upgrade, effect...)
     /// </summary>
@@ -18,8 +18,9 @@ public class CharactorBase {
     /// Current health point of charactor
     /// </summary>
     public float CurHp { get; set; }
-    /// <summary>
-    /// Skill action list of charactor
-    /// </summary>
-    public List<Action<List<float>>> Skill { get; set; }
+
+    public abstract void DoSkill_0(List<float> param);
+    public abstract void DoSkill_1(List<float> param);
+    public abstract void DoSkill_2(List<float> param);
+    public abstract void DoSkill_3(List<float> param);
 }

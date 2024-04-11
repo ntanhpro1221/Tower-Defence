@@ -3,7 +3,11 @@ guid: d69cf9ca3d3448b4c9582b6e483c4fce
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - <heroInfoTable>k__BackingField: {instanceID: 0}
+  - <heroDataTable>k__BackingField: {instanceID: 0}
+  - <runeInfoTable>k__BackingField: {instanceID: 0}
+  - <runeDataTable>k__BackingField: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

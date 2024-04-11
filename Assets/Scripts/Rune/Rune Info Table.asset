@@ -12,4 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 123bc1f126386ed478b38e03a791f298, type: 3}
   m_Name: Rune Info Table
   m_EditorClassIdentifier: 
-  <Table>k__BackingField: []
+  <Table>k__BackingField:
+  - <Name>k__BackingField: Rune of power (Test)
+    <Id>k__BackingField: 000
+    <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0.
+      T\u0103ng t\u1ED1c \u0111\u1ED9 \u0111\xE1nh th\xEAm params_1"
+    <StatsTrans>k__BackingField:
+    - {x: 1, y: 1, z: 1}
+    - {x: 1, y: 1, z: 1}
