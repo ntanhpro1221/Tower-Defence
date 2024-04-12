@@ -6,11 +6,11 @@ public class DataManager : MonoBehaviour {
     public static DataManager Instance { get; }
 
     [field: SerializeField]
-    private CharactorInfoTable heroInfoTable { get; set; }
+    private HeroInfoTable heroInfoTable { get; set; }
     [field: SerializeField]
-    private CharactorDataTable heroDataTable { get; set; }
-    public Dictionary<string, CharactorInfo> heroInfo { get; private set; }
-    public List<CharactorData> heroData { get; private set; }
+    private HeroDataTable heroDataTable { get; set; }
+    public Dictionary<string, HeroInfo> heroInfo { get; private set; }
+    public List<HeroData> heroData { get; private set; }
 
     [field: SerializeField]
     private RuneInfoTable runeInfoTable { get; set; }
@@ -20,7 +20,7 @@ public class DataManager : MonoBehaviour {
     public List<RuneData> runeData { get; private set; }
     private void LoadAllData() {
         heroData = heroDataTable.Table;
-        foreach (CharactorInfo info in heroInfoTable.Table)
+        foreach (HeroInfo info in heroInfoTable.Table)
             heroInfo[info.Id] = info;
         runeData = runeDataTable.Table;
         foreach (RuneInfo info in runeInfoTable.Table)

@@ -41,4 +41,10 @@ public class CharactorData {
     /// </summary>
     [field: SerializeField]
     public List<int> SkillLevel { get; set; }
+    /// <summary>
+    /// Current health point of charactor
+    /// </summary>
+    public float CurHp { get; set; }
+    public CharactorStats<List<Buff>> InGameBuff { get; set; }
+
 }

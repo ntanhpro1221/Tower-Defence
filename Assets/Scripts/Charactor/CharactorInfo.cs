@@ -26,7 +26,7 @@ public class CharactorInfo {
     /// Cost of charactor
     /// </summary>
     [field: SerializeField]
-    public int Cost { get; set; }
+    public List<Cost> Cost { get; set; }
     /// <summary>
     /// Stats translation of charactor
     /// </summary>
