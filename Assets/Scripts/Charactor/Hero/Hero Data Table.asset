@@ -12,4 +12,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dbf3369ab8b14d749bcbe61fde286ff5, type: 3}
   m_Name: Hero Data Table
   m_EditorClassIdentifier: 
-  <Table>k__BackingField: []
+  <Table>k__BackingField:
+  - <Name>k__BackingField: Jave (Test)
+    <Id>k__BackingField: 000
+    <Level>k__BackingField: 1
+    <Xp>k__BackingField: 0
+    <IsUnlocked>k__BackingField: 0
+    <SkillPoint>k__BackingField: 0
+    <SkillLevel>k__BackingField: 01000000000000000000000000000000
+    <Rune>k__BackingField:
+    - <Name>k__BackingField: Rune Of Power
+      <Id>k__BackingField: 000
+      <Level>k__BackingField: 1
+      <Rank>k__BackingField: 1
+      <OwnerId>k__BackingField: 000
+    - <Name>k__BackingField: Rune Of Power
+      <Id>k__BackingField: 000
+      <Level>k__BackingField: 1
+      <Rank>k__BackingField: 1
+      <OwnerId>k__BackingField: 000
+    - <Name>k__BackingField: Rune Of Power
+      <Id>k__BackingField: 000
+      <Level>k__BackingField: 1
+      <Rank>k__BackingField: 1
+      <OwnerId>k__BackingField: 000
+    - <Name>k__BackingField: Rune Of Power
+      <Id>k__BackingField: 000
+      <Level>k__BackingField: 1
+      <Rank>k__BackingField: 1
+      <OwnerId>k__BackingField: 000
+    - <Name>k__BackingField: Rune Of Power
+      <Id>k__BackingField: 000
+      <Level>k__BackingField: 1
+      <Rank>k__BackingField: 1
+      <OwnerId>k__BackingField: 000
+    - <Name>k__BackingField: Rune Of Power
+      <Id>k__BackingField: 000
+      <Level>k__BackingField: 1
+      <Rank>k__BackingField: 1
+      <OwnerId>k__BackingField: 000

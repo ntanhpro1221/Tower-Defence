@@ -45,3 +45,6 @@ TagManager:
   - name: UI
     uniqueID: 372758879
     locked: 0
+  - name: Window
+    uniqueID: 3906217281
+    locked: 0

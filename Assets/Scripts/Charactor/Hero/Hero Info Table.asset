@@ -12,4 +12,67 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 23d03024f4bc54845ab128a2e0e20b1a, type: 3}
   m_Name: Hero Info Table
   m_EditorClassIdentifier: 
-  <Table>k__BackingField: []
+  <Table>k__BackingField:
+  - <Name>k__BackingField: Jave (Test)
+    <Id>k__BackingField: 000
+    <Description>k__BackingField: "T\u1EEB nh\u1ECF \u0111\xE3 bi\u1EBFt th\u1EDF"
+    <StatsTrans>k__BackingField:
+      <Hp>k__BackingField: {x: 1, y: 1}
+      <HpRegen>k__BackingField: {x: 1, y: 1}
+      <Armor>k__BackingField: {x: 1, y: 1}
+      <MagicRes>k__BackingField: {x: 1, y: 1}
+      <Atk>k__BackingField: {x: 1, y: 1}
+      <AtkSpeed>k__BackingField: {x: 1, y: 1}
+      <ArmorPen>k__BackingField: {x: 1, y: 1}
+      <MagicPen>k__BackingField: {x: 1, y: 1}
+      <CritRate>k__BackingField: {x: 1, y: 1}
+      <CritDamage>k__BackingField: {x: 1, y: 1}
+      <LifeSteal>k__BackingField: {x: 1, y: 1}
+      <Range>k__BackingField: {x: 1, y: 1}
+      <MoveSpeed>k__BackingField: {x: 1, y: 1}
+      <RespawnTime>k__BackingField: {x: 1, y: 1}
+      <SkillCDR>k__BackingField: {x: 1, y: 1}
+      <XpRequired>k__BackingField: {x: 1, y: 1}
+    <Skill>k__BackingField:
+    - <CDTime>k__BackingField: {x: 10, y: -1}
+      <SkillParams>k__BackingField:
+      - {x: 1, y: 1}
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
+    - <CDTime>k__BackingField: {x: 10, y: -1}
+      <SkillParams>k__BackingField:
+      - {x: 1, y: 1}
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
+    - <CDTime>k__BackingField: {x: 10, y: -1}
+      <SkillParams>k__BackingField:
+      - {x: 1, y: 1}
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
+    - <CDTime>k__BackingField: {x: 10, y: -1}
+      <SkillParams>k__BackingField:
+      - {x: 1, y: 1}
+      <Description>k__BackingField: "T\u0103ng s\xE1t th\u01B0\u01A1ng th\xEAm params_0
+        trong 3 gi\xE2y"
+    <Skin>k__BackingField:
+    - <Name>k__BackingField: "Jave m\u1EB7c \u0111\u1ECBnh"
+      <Id>k__BackingField: 00
+      <Buff>k__BackingField:
+        <Hp>k__BackingField:
+        - <Type>k__BackingField: 1
+          <Value>k__BackingField: 10
+        <HpRegen>k__BackingField: []
+        <Armor>k__BackingField: []
+        <MagicRes>k__BackingField: []
+        <Atk>k__BackingField: []
+        <AtkSpeed>k__BackingField: []
+        <ArmorPen>k__BackingField: []
+        <MagicPen>k__BackingField: []
+        <CritRate>k__BackingField: []
+        <CritDamage>k__BackingField: []
+        <LifeSteal>k__BackingField: []
+        <Range>k__BackingField: []
+        <MoveSpeed>k__BackingField: []
+        <RespawnTime>k__BackingField: []
+        <SkillCDR>k__BackingField: []
+        <XpRequired>k__BackingField: []
