@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
 
 public class UserData {
-    public CharactorStats<List<Buff>> CharactorBuff { get; set; }
+    public ActorStats<List<Buff>> CharactorBuff { get; set; }
 }

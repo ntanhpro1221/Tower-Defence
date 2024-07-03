@@ -4,10 +4,8 @@ MonoImporter:
   externalObjects: {}
   serializedVersion: 2
   defaultReferences:
-  - <heroInfoTable>k__BackingField: {instanceID: 0}
-  - <heroDataTable>k__BackingField: {instanceID: 0}
-  - <runeInfoTable>k__BackingField: {instanceID: 0}
-  - <runeDataTable>k__BackingField: {instanceID: 0}
+  - <HeroInfoTable>k__BackingField: {fileID: 11400000, guid: 7e11b983952c4684a8e962a10c903499, type: 2}
+  - <HeroDataTable>k__BackingField: {fileID: 11400000, guid: 23bbe5cdecb343e4b9d194e1ff3b92c1, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
