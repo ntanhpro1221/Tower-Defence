@@ -50,8 +50,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8804226641034789923, guid: 1572380e347dd6a46b5bedbcde57fdbd, type: 3}
       propertyPath: m_Name
-      value: BaseHero
+      value: Jave
       objectReference: {fileID: 0}
+    - target: {fileID: 8949289480873773872, guid: 1572380e347dd6a46b5bedbcde57fdbd, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 22100000, guid: 380f990be04746841923ebd985b80e1b, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
